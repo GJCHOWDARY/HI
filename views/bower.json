@@ -1,0 +1,65 @@
+{
+  "name": "sampleApp",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "^1.6.3",
+    "bootstrap": "^3.3.7",
+    "angular-cookies": "^1.6.3",
+    "angular-resource": "^1.6.3",
+    "angular-route": "^1.6.3",
+    "angular-sanitize": "^1.6.3",
+    "angular-touch": "^1.6.3",
+    "angular-ui-router": "ui-router#^0.3.2",
+    "angular-bootstrap": "^2.2.0",
+    "font-awesome": "^4.7.0",
+    "angular-datepicker": "^2.0.3",
+    "angular-google-maps": "^2.4.0",
+    "angularjs-slider": "^5.8.7",
+    "angular-google-places-autocomplete": "git://github.com/mebibou/angular-google-places-autocomplete#master",
+    "ngGeolocation": "^0.0.8",
+    "ng-file-upload": "^12.2.13",
+    "angular-slick": "^0.2.1",
+    "angularjs-datepicker": "^2.1.14",
+    "angular-messages": "^1.6.1",
+    "ngInfiniteScroll": "^1.3.4",
+    "angular-ui-notification": "^0.3.5",
+    "angular-ui-select": "^0.19.6",
+    "moment": "^2.17.1",
+    "angular-carousel": "^1.0.1",
+    "angular-moment-picker": "moment-picker#^0.9.10",
+    "underscore": "^1.8.3",
+    "angular-chart.js": "^1.1.1",
+    "checklist-model": "^0.11.0",
+    "angular-input-stars-directive": "angular-input-stars#^1.6.3",
+    "angular-check-all": "^0.1.2",
+    "chartnew.js": "https://github.com/FVANCOP/ChartNew.js.git",
+    "angular-slick-carousel": "^3.1.7",
+    "angular-nvd3": "^1.0.9",
+    "angular-percent-circle-directive": "^1.1.1",
+    "allmighty-autocomplete": "*",
+    "angular-animate": "^1.6.5"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.3",
+    "angular-bootstrap-multiselect": "https://github.com/bentorfs/angular-bootstrap-multiselect.git#^1.1.4"
+  },
+  "appPath": "app",
+  "moduleName": "shopayeApp",
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "less/bootstrap.less",
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js"
+      ]
+    }
+  },
+  "resolutions": {
+    "angular": "^1.6.3",
+    "angular-google-maps": "^2.4.0",
+    "lodash": "3.X - 4.X",
+    "angular-google-places-autocomplete": "master",
+    "moment": "^2.17.1",
+    "slick-carousel": "~1.4.1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "angular-check-all",
+  "version": "0.1.2",
+  "description": "AngularJS directive to control a group of checkboxes",
+  "authors": [
+    "Roch Devost"
+  ],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "angular.js",
+    "check",
+    "checkbox",
+    "check-all",
+    "checklist",
+    "checklist-model",
+    "select",
+    "select-all"
+  ],
+  "license": "MIT",
+  "main": "angular-check-all.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "example",
+    "package.json",
+    "karma.conf.js"
+  ],
+  "dependencies": {
+    "angular": ">=1.2 <1.6"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1.2 <1.6",
+    "checklist-model": "~0.9.0"
+  },
+  "homepage": "https://github.com/rochdev/angular-check-all",
+  "_release": "0.1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.2",
+    "commit": "48e4694312133eaffd83e12effae36690c9f88d0"
+  },
+  "_source": "https://github.com/rochdev/angular-check-all.git",
+  "_target": "^0.1.2",
+  "_originalSource": "angular-check-all"
+}

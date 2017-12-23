@@ -2,5 +2,4 @@
 //     res.render('index');
 // };
 
-exports.dealsController = require('./deal');
-exports.searchController = require('./search');
+exports.userController = require('./deal');
